@@ -11,7 +11,7 @@ Note: validated on Ubuntu 16.04 (Host)
 
 # Run weston on docker build
 
-1) Switch to VT console on the host (C-M_F{x})
+1) Switch to VT console on the host (C-M-F{1..6})
 2) cd to the clone dir and run test.sh
 this will run weston
 
