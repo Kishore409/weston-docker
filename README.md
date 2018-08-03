@@ -1,6 +1,7 @@
 # weston-docker
 
-Note: validated on Ubuntu 16.04
+Note: validated on Ubuntu 16.04 (Host)
+
 
 # Setup and build docker
 
@@ -11,7 +12,7 @@ Note: validated on Ubuntu 16.04
 # Run weston on docker build
 
 1) Switch to VT console on the host (C-M_F{x})
-2) cd to the clone and run test.sh
+2) cd to the clone dir and run test.sh
 this will run weston
 
 
